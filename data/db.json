@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "id": "u40p8Wec-",
+      "title": "中樂透",
+      "time": "2024-05-12",
+      "type": "1",
+      "account": "5000",
+      "remarks": "爽"
+    },
+    {
+      "id": "OVwT8Jn5g",
+      "title": "買菜",
+      "time": "2024-05-11",
+      "type": "-1",
+      "account": "500",
+      "remarks": "買菜"
+    }
+  ]
+}
